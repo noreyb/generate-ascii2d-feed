@@ -4,7 +4,7 @@
         <title>feed-ngk-ranking-daily</title>
         <link>https://noreyb.github.io/feed-ngk</link>
         <description>feed-ngk-ranking-daily</description>
-        <lastBuildDate>Sat, 17 Jan 2026 02:12:40 -0000</lastBuildDate>
+        <lastBuildDate>Sat, 17 Jan 2026 06:41:59 -0000</lastBuildDate>
         <item>
             <title>1e0634ac2307237af2cd5640d65621f2</title>
             <link>https://tsumanne.net/si/data/2026/01/17/10441296/1768580505135.png</link>
@@ -13,9 +13,15 @@
         </item>
         <item>
             <title>57859cee58e97b85cecdfc7cbaf28bdd</title>
-            <link>http://c3.ftbucket.info/img/cont/img.2chan.net_b_res_1393046761/img/1768563193813.jpg</link>
+            <link>https://c3.ftbucket.info/img/cont/img.2chan.net_b_res_1393046761/img/1768563193813.jpg</link>
             <description>57859cee58e97b85cecdfc7cbaf28bdd</description>
-            <enclosure length="0" type="image/jpeg" url="http://c3.ftbucket.info/img/cont/img.2chan.net_b_res_1393046761/img/1768563193813.jpg" />
+            <enclosure length="0" type="image/jpeg" url="https://c3.ftbucket.info/img/cont/img.2chan.net_b_res_1393046761/img/1768563193813.jpg" />
+        </item>
+        <item>
+            <title>F2cf0b4cfdcf81d4192d94b3b3b3c58a</title>
+            <link>http://may.2chan.net/b/src/1768600219311.jpg</link>
+            <description>F2cf0b4cfdcf81d4192d94b3b3b3c58a</description>
+            <enclosure length="0" type="image/jpeg" url="http://may.2chan.net/b/src/1768600219311.jpg" />
         </item>
         <item>
             <title>Cd21966fc97e0701184bdc411bc8a763</title>
@@ -30,34 +36,46 @@
             <enclosure length="0" type="image/jpeg" url="https://c3.ftbucket.info/img/cont/img.2chan.net_b_res_1392978062/img/1768548905880.jpg" />
         </item>
         <item>
+            <title>218fdac308e717a70ae438ab8ca74a29</title>
+            <link>http://img.2chan.net/b/src/1768624031159.jpg</link>
+            <description>218fdac308e717a70ae438ab8ca74a29</description>
+            <enclosure length="0" type="image/jpeg" url="http://img.2chan.net/b/src/1768624031159.jpg" />
+        </item>
+        <item>
+            <title>8c148566a0c5f9a183566178f7a9bd90</title>
+            <link>http://img.2chan.net/b/src/1768620037928.jpg</link>
+            <description>8c148566a0c5f9a183566178f7a9bd90</description>
+            <enclosure length="0" type="image/jpeg" url="http://img.2chan.net/b/src/1768620037928.jpg" />
+        </item>
+        <item>
             <title>C9313538d14d64a385ebea966cb1774a</title>
             <link>https://moeimg.net/wp-content/uploads/archives22/22930/1_895g25246n.jpg</link>
             <description>C9313538d14d64a385ebea966cb1774a</description>
             <enclosure length="0" type="image/jpeg" url="https://moeimg.net/wp-content/uploads/archives22/22930/1_895g25246n.jpg" />
         </item>
         <item>
-            <title>F2cf0b4cfdcf81d4192d94b3b3b3c58a</title>
-            <link>http://may.2chan.net/b/src/1768600219311.jpg</link>
-            <description>F2cf0b4cfdcf81d4192d94b3b3b3c58a</description>
-            <enclosure length="0" type="image/jpeg" url="http://may.2chan.net/b/src/1768600219311.jpg" />
-        </item>
-        <item>
-            <title>A2a09722e77e65d7cfe98f901a1c1836</title>
-            <link>https://moeimg.net/wp-content/uploads/archives22/22599/23_std7p88psy.jpg</link>
-            <description>A2a09722e77e65d7cfe98f901a1c1836</description>
-            <enclosure length="0" type="image/jpeg" url="https://moeimg.net/wp-content/uploads/archives22/22599/23_std7p88psy.jpg" />
-        </item>
-        <item>
-            <title>Ba704300cd1dd73b9e24ae396b05f097</title>
-            <link>http://img.2chan.net/b/src/1768532269664.jpg</link>
-            <description>Ba704300cd1dd73b9e24ae396b05f097</description>
-            <enclosure length="0" type="image/jpeg" url="http://img.2chan.net/b/src/1768532269664.jpg" />
-        </item>
-        <item>
             <title>B91c2dd62bc876302e5922672091fb7e</title>
             <link>http://img.2chan.net/b/src/1768575309741.jpg</link>
             <description>B91c2dd62bc876302e5922672091fb7e</description>
             <enclosure length="0" type="image/jpeg" url="http://img.2chan.net/b/src/1768575309741.jpg" />
+        </item>
+        <item>
+            <title>8782e3c4d160b304177461d75ce3affe</title>
+            <link>http://may.2chan.net/b/src/1768597803132.jpg</link>
+            <description>8782e3c4d160b304177461d75ce3affe</description>
+            <enclosure length="0" type="image/jpeg" url="http://may.2chan.net/b/src/1768597803132.jpg" />
+        </item>
+        <item>
+            <title>A850cddca2bfe605b9530839d367eaba</title>
+            <link>http://may.2chan.net/b/src/1768602169848.jpg</link>
+            <description>A850cddca2bfe605b9530839d367eaba</description>
+            <enclosure length="0" type="image/jpeg" url="http://may.2chan.net/b/src/1768602169848.jpg" />
+        </item>
+        <item>
+            <title>8e6e8f6cd5bfd9494037608c50582fc9</title>
+            <link>https://moeimg.net/wp-content/uploads/archives22/22932/25_xncxdzfq61.jpg</link>
+            <description>8e6e8f6cd5bfd9494037608c50582fc9</description>
+            <enclosure length="0" type="image/jpeg" url="https://moeimg.net/wp-content/uploads/archives22/22932/25_xncxdzfq61.jpg" />
         </item>
         <item>
             <title>92d7a0fdbbbc0b17ad8c090ec81303b2</title>
@@ -72,10 +90,10 @@
             <enclosure length="0" type="image/jpeg" url="https://moeimg.net/wp-content/uploads/archives22/22932/4_razoca7g3f.jpg" />
         </item>
         <item>
-            <title>06b56619165daf37f98a6584db70059e</title>
-            <link>https://moeimg.net/wp-content/uploads/archives22/22929/32_sfajz63lvu.jpg</link>
-            <description>06b56619165daf37f98a6584db70059e</description>
-            <enclosure length="0" type="image/jpeg" url="https://moeimg.net/wp-content/uploads/archives22/22929/32_sfajz63lvu.jpg" />
+            <title>E39a1ac70c1f359e10e909c87304a86f</title>
+            <link>https://moeimg.net/wp-content/uploads/archives22/22932/15_t7etn186zv.jpg</link>
+            <description>E39a1ac70c1f359e10e909c87304a86f</description>
+            <enclosure length="0" type="image/jpeg" url="https://moeimg.net/wp-content/uploads/archives22/22932/15_t7etn186zv.jpg" />
         </item>
         <item>
             <title>307dbcf1795a04bc4509a82b9bde0d2b</title>
@@ -84,22 +102,10 @@
             <enclosure length="0" type="image/jpeg" url="https://moeimg.net/wp-content/uploads/archives22/22931/1_samq70lfna.jpg" />
         </item>
         <item>
-            <title>F8779536e1dc070a5e5af0ffc732a0ef</title>
-            <link>https://moeimg.net/wp-content/uploads/archives22/22928/20_smlckxe1xe.jpg</link>
-            <description>F8779536e1dc070a5e5af0ffc732a0ef</description>
-            <enclosure length="0" type="image/jpeg" url="https://moeimg.net/wp-content/uploads/archives22/22928/20_smlckxe1xe.jpg" />
-        </item>
-        <item>
-            <title>E39a1ac70c1f359e10e909c87304a86f</title>
-            <link>https://moeimg.net/wp-content/uploads/archives22/22932/15_t7etn186zv.jpg</link>
-            <description>E39a1ac70c1f359e10e909c87304a86f</description>
-            <enclosure length="0" type="image/jpeg" url="https://moeimg.net/wp-content/uploads/archives22/22932/15_t7etn186zv.jpg" />
-        </item>
-        <item>
-            <title>7b4d6e2d717abce1d9faba27bc11a9a7</title>
-            <link>https://moeimg.net/wp-content/uploads/archives22/22930/25_zf5v9w5ikg.jpg</link>
-            <description>7b4d6e2d717abce1d9faba27bc11a9a7</description>
-            <enclosure length="0" type="image/jpeg" url="https://moeimg.net/wp-content/uploads/archives22/22930/25_zf5v9w5ikg.jpg" />
+            <title>5ae51e20a2604a5ac5c9b51cb5aeba8f</title>
+            <link>http://img.2chan.net/b/src/1768625983451.png</link>
+            <description>5ae51e20a2604a5ac5c9b51cb5aeba8f</description>
+            <enclosure length="0" type="image/jpeg" url="http://img.2chan.net/b/src/1768625983451.png" />
         </item>
         <item>
             <title>Fe966afae6e33f0e6772985188bd7d2b</title>
@@ -108,22 +114,16 @@
             <enclosure length="0" type="image/jpeg" url="https://kako.futakuro.com/futa/img_b/1393014046/1768558049703.jpg" />
         </item>
         <item>
-            <title>8e6e8f6cd5bfd9494037608c50582fc9</title>
-            <link>https://moeimg.net/wp-content/uploads/archives22/22932/25_xncxdzfq61.jpg</link>
-            <description>8e6e8f6cd5bfd9494037608c50582fc9</description>
-            <enclosure length="0" type="image/jpeg" url="https://moeimg.net/wp-content/uploads/archives22/22932/25_xncxdzfq61.jpg" />
+            <title>A8e8e0b77898db4140304f028c6fa09d</title>
+            <link>https://moeimg.net/wp-content/uploads/archives22/22932/1_scih80nu3d.jpg</link>
+            <description>A8e8e0b77898db4140304f028c6fa09d</description>
+            <enclosure length="0" type="image/jpeg" url="https://moeimg.net/wp-content/uploads/archives22/22932/1_scih80nu3d.jpg" />
         </item>
         <item>
-            <title>D65520eb7c7bd13955a468763239ecf4</title>
-            <link>https://moeimg.net/wp-content/uploads/archives22/22928/19_cpdxs4ufmc.jpg</link>
-            <description>D65520eb7c7bd13955a468763239ecf4</description>
-            <enclosure length="0" type="image/jpeg" url="https://moeimg.net/wp-content/uploads/archives22/22928/19_cpdxs4ufmc.jpg" />
-        </item>
-        <item>
-            <title>F8d20bc0fc5b16ab091a024c0fc8322c</title>
-            <link>https://tsumanne.net/si/data/2026/01/17/10441179/1768581731113.jpg</link>
-            <description>F8d20bc0fc5b16ab091a024c0fc8322c</description>
-            <enclosure length="0" type="image/jpeg" url="https://tsumanne.net/si/data/2026/01/17/10441179/1768581731113.jpg" />
+            <title>A2a09722e77e65d7cfe98f901a1c1836</title>
+            <link>https://moeimg.net/wp-content/uploads/archives22/22599/23_std7p88psy.jpg</link>
+            <description>A2a09722e77e65d7cfe98f901a1c1836</description>
+            <enclosure length="0" type="image/jpeg" url="https://moeimg.net/wp-content/uploads/archives22/22599/23_std7p88psy.jpg" />
         </item>
     </channel>
 </rss>
